@@ -27,18 +27,18 @@ from SHUKLAMUSIC.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
-EGO_PIC = ["https://telegra.ph/file/89c5023101b65f21fb401.mp4",
-          "https://telegra.ph/file/bbc914cce6cce7f607641.mp4",
-          "https://telegra.ph/file/abc578ecc222d28a861ba.mp4",
-          "https://telegra.ph/file/065f40352707e9b5b7c15.mp4",
-          "https://telegra.ph/file/52ceaf02eae7eed6c9fff.mp4",
-          "https://telegra.ph/file/299108f6ac08f4e65e47a.mp4",
-          "https://telegra.ph/file/7a4e08bd04d628de71fc1.mp4",
-          "https://telegra.ph/file/0ad8b932fe5f7684f941c.mp4",
-          "https://telegra.ph/file/95ebe2065cfb1ac324a1c.mp4",
-          "https://telegra.ph/file/98cf22ccb987f9fedac5e.mp4",
-          "https://telegra.ph/file/f1b1754fc9d01998f24df.mp4",
-          "https://telegra.ph/file/421ee22ed492a7b8ce101.mp4"]
+EGO_PIC = ["https://files.catbox.moe/783eei.jpg",
+          "https://files.catbox.moe/ugt0xj.jpg",
+          "https://files.catbox.moe/wrhqcx.jpg",
+          "https://files.catbox.moe/d8lipm.jpg",
+          "https://files.catbox.moe/cyewb0.jpg",
+          "https://files.catbox.moe/783eei.jpg",
+          "https://files.catbox.moe/ugt0xj.jpg",
+          "https://files.catbox.moe/d8lipm.jpg",
+          "https://files.catbox.moe/wrhqcx.jpg",
+          "https://files.catbox.moe/cyewb0.jpg",
+          "https://files.catbox.moe/783eei.jpg",
+          "https://files.catbox.moe/d8lipm.jpg"]
 
 SHASHANK_PH = [
     "https://files.catbox.moe/jrupn9.jpg",
