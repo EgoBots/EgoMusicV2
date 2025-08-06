@@ -28,12 +28,12 @@ from config import BANNED_USERS
 from strings import get_string
 
 EGO_PIC = ["https://files.catbox.moe/783eei.jpg",
-          "https://files.catbox.moe/ugt0xj.jpg",
+          "https://files.catbox.moe/zullcy.jpg",
           "https://files.catbox.moe/wrhqcx.jpg",
           "https://files.catbox.moe/d8lipm.jpg",
           "https://files.catbox.moe/cyewb0.jpg",
           "https://files.catbox.moe/783eei.jpg",
-          "https://files.catbox.moe/ugt0xj.jpg",
+          "https://files.catbox.moe/zullcy.jpg",
           "https://files.catbox.moe/d8lipm.jpg",
           "https://files.catbox.moe/wrhqcx.jpg",
           "https://files.catbox.moe/cyewb0.jpg",
