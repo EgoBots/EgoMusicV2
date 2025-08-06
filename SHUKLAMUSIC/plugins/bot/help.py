@@ -13,16 +13,16 @@ from SHUKLAMUSIC.utils.stuffs.buttons import BUTTONS
 from SHUKLAMUSIC.utils.stuffs.helper import Helper
 
 EGO_PIC = ["https://files.catbox.moe/783eei.jpg",
-          "https://files.catbox.moe/ugt0xj.jpg",
+          "https://files.catbox.moe/zullcy.jpg",
           "https://files.catbox.moe/wrhqcx.jpg",
           "https://files.catbox.moe/d8lipm.jpg",
           "https://files.catbox.moe/cyewb0.jpg",
           "https://files.catbox.moe/783eei.jpg",
-          "https://files.catbox.moe/ugt0xj.jpg",
+          "https://files.catbox.moe/zullcy.jpg",
           "https://files.catbox.moe/wrhqcx.jpg",
           "https://files.catbox.moe/d8lipm.jpg",
           "https://files.catbox.moe/cyewb0.jpg",
-          "https://files.catbox.moe/cyewb0.jpg",
+          "https://files.catbox.moe/zullcy.jpg",
           "https://files.catbox.moe/783eei.jpg"]
 
 
