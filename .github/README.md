@@ -165,6 +165,6 @@ Bot also Supported with Channels. Just add bot and assistant to the Channel as A
 
 ### Credits : 
 
-- [Shashank Shukla](https://github.com/itzshukla)
-- [Telegram](https://t.me/SHASHANKDEVS)
+- [ ˹ ᴇɢᴏ lꝛᴇᴍɪx ˼ ](https://t.me/EGO_REMIX)
+- [˹ ᴇɢᴏ lꝛᴇᴍɪx sᴜᴘᴘᴏʀᴛ˼ ](https://t.me/SHASHANKDEVS)
 - Everyone In This Journey !
