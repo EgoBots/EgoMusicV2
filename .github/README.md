@@ -3,7 +3,7 @@
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝚃𝚁𝙰𝙽𝙶𝙴𝚁+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/itzshukla/STRANGER-MUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝚃𝚁𝙰𝙽𝙶𝙴𝚁+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗞𝗔𝗥𝗠𝗔)](https://github.com/itzshukla/STRANGER-MUSIC)
 
 
 
@@ -166,5 +166,5 @@ Bot also Supported with Channels. Just add bot and assistant to the Channel as A
 ### Credits : 
 
 - [ ˹ ᴇɢᴏ lꝛᴇᴍɪx ˼ ](https://t.me/EGO_REMIX)
-- [˹ ᴇɢᴏ lꝛᴇᴍɪx sᴜᴘᴘᴏʀᴛ˼ ](https://t.me/SHASHANKDEVS)
+- [˹ ᴇɢᴏ lꝛᴇᴍɪx sᴜᴘᴘᴏʀᴛ ˼ ](https://t.me/SHASHANKDEVS)
 - Everyone In This Journey !
